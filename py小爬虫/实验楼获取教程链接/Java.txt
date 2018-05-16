@@ -1,0 +1,16 @@
+MyBatis 框架基础入门	https://www.shiyanlou.com/courses/802
+Java 实现微信红包分配算法	https://www.shiyanlou.com/courses/706
+J2SE核心开发实战	https://www.shiyanlou.com/courses/111
+JDBC 入门教程	https://www.shiyanlou.com/courses/110
+Hadoop入门进阶课程	https://www.shiyanlou.com/courses/237
+Hibernate框架教程	https://www.shiyanlou.com/courses/34
+Java 8 新特性指南	https://www.shiyanlou.com/courses/539
+JDK 核心 API	https://www.shiyanlou.com/courses/109
+Java编程语言（新版）	https://www.shiyanlou.com/courses/18
+结合七牛搭建个人相册	https://www.shiyanlou.com/courses/54
+Spring框架入门教程（新版）	https://www.shiyanlou.com/courses/578
+Struts框架教程	https://www.shiyanlou.com/courses/32
+Java进阶之设计模式	https://www.shiyanlou.com/courses/100
+Java开发简单的计算器	https://www.shiyanlou.com/courses/185
+自己的Java编辑器	https://www.shiyanlou.com/courses/287
+Java实现记事本	https://www.shiyanlou.com/courses/154

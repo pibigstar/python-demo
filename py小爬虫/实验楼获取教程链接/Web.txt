@@ -1,0 +1,16 @@
+手把手教你实现 Google 拓展插件	https://www.shiyanlou.com/courses/702
+Vuejs2.0 使用教程	https://www.shiyanlou.com/courses/759
+基于 Luosimao 的人机验证服务	https://www.shiyanlou.com/courses/648
+基于 HTML5 实现本地图片裁剪	https://www.shiyanlou.com/courses/363
+结合七牛搭建个人相册	https://www.shiyanlou.com/courses/54
+基于HTML5 Canvas实现小游戏	https://www.shiyanlou.com/courses/361
+Javascript基础（新版）	https://www.shiyanlou.com/courses/21
+基于 JavaScript 实现玫瑰花	https://www.shiyanlou.com/courses/197
+HTML基础入门	https://www.shiyanlou.com/courses/19
+HTML5基础入门	https://www.shiyanlou.com/courses/43
+jQuery基础入门	https://www.shiyanlou.com/courses/51
+Bootstrap3.0入门学习	https://www.shiyanlou.com/courses/50
+CSS速成教程	https://www.shiyanlou.com/courses/53
+网页版拼图游戏	https://www.shiyanlou.com/courses/161
+纯 CSS 打造网页版「大白」	https://www.shiyanlou.com/courses/328
+网页版别踩白块游戏	https://www.shiyanlou.com/courses/306

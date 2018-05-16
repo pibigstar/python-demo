@@ -1,0 +1,47 @@
+k-近邻算法实现手写数字识别系统--《机器学习实战 》	https://www.shiyanlou.com/courses/777
+Python 实现康威生命游戏	https://www.shiyanlou.com/courses/769
+Django 入门教程	https://www.shiyanlou.com/courses/774
+Django 进阶教程	https://www.shiyanlou.com/courses/803
+NBA常规赛结果预测——利用Python进行比赛数据分析	https://www.shiyanlou.com/courses/782
+使用 Python 解数学方程	https://www.shiyanlou.com/courses/729
+Python 气象数据分析 -- 《Python 数据分析实战》	https://www.shiyanlou.com/courses/780
+Python实现Huffman编码解压缩文件	https://www.shiyanlou.com/courses/734
+PyQt 实现简易浏览器	https://www.shiyanlou.com/courses/705
+川普撞脸希拉里(基于 OpenCV 的面部特征交换)	https://www.shiyanlou.com/courses/686
+Python 3 实现 Markdown 解析器	https://www.shiyanlou.com/courses/708
+SQLAlchemy 基础教程	https://www.shiyanlou.com/courses/724
+Python3实现简单的FTP认证服务器	https://www.shiyanlou.com/courses/725
+Python 实现简单画板	https://www.shiyanlou.com/courses/674
+Python 实现简易 Shell	https://www.shiyanlou.com/courses/647
+Python基于共现提取《釜山行》人物关系	https://www.shiyanlou.com/courses/677
+Python3 图片隐写术	https://www.shiyanlou.com/courses/651
+Python3 实现火车票查询工具	https://www.shiyanlou.com/courses/623
+Python实现键值数据库	https://www.shiyanlou.com/courses/614
+Python3 简明教程	https://www.shiyanlou.com/courses/596
+Python实现3D建模工具	https://www.shiyanlou.com/courses/561
+神经网络实现手写字符识别系统	https://www.shiyanlou.com/courses/593
+Python3 色情图片识别	https://www.shiyanlou.com/courses/589
+Python实现简单的Web服务器	https://www.shiyanlou.com/courses/552
+Python3 & OpenCV 视频转字符动画	https://www.shiyanlou.com/courses/637
+基于 Flask 与 MySQL 实现番剧推荐系统	https://www.shiyanlou.com/courses/633
+基于 LeanCloud 的短信验证	https://www.shiyanlou.com/courses/609
+高德API+Python解决租房问题	https://www.shiyanlou.com/courses/599
+Python编程语言	https://www.shiyanlou.com/courses/3
+全面解析PythonChallenge	https://www.shiyanlou.com/courses/408
+基于 SendCloud 的邮箱验证	https://www.shiyanlou.com/courses/622
+使用 Python 3 编写系列实用脚本	https://www.shiyanlou.com/courses/580
+Django 搭建简易博客	https://www.shiyanlou.com/courses/487
+每天一个PythonChallenge《任务三》	https://www.shiyanlou.com/courses/411
+每天一个PythonChallenge《任务二》	https://www.shiyanlou.com/courses/409
+Python科学计算(二)	https://www.shiyanlou.com/courses/391
+Python 图片转字符画	https://www.shiyanlou.com/courses/370
+Python Flask Web框架	https://www.shiyanlou.com/courses/29
+Python实现Python解释器	https://www.shiyanlou.com/courses/554
+200行Python代码实现2048	https://www.shiyanlou.com/courses/368
+Python 破解验证码	https://www.shiyanlou.com/courses/364
+基于Flask/RethinkDB实现TODO List	https://www.shiyanlou.com/courses/359
+Flask 开发轻博客	https://www.shiyanlou.com/courses/31
+Python文本解析器	https://www.shiyanlou.com/courses/70
+pygame开发打飞机游戏	https://www.shiyanlou.com/courses/49
+用Python做2048游戏	https://www.shiyanlou.com/courses/427
+Python科学计算(一)	https://www.shiyanlou.com/courses/348

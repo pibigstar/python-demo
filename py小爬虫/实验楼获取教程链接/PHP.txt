@@ -1,0 +1,7 @@
+Laravel 5.1 基础教程	https://www.shiyanlou.com/courses/733
+PHP 封装分页类	https://www.shiyanlou.com/courses/743
+16个PHP设计模式详解	https://www.shiyanlou.com/courses/699
+PHP 实现简单的 MVC 框架	https://www.shiyanlou.com/courses/607
+ThinkPHP框架实践	https://www.shiyanlou.com/courses/96
+PHP会话控制	https://www.shiyanlou.com/courses/436
+PHP 编程语言	https://www.shiyanlou.com/courses/23

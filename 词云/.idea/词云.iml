@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="秒抢脚本" />
+    <orderEntry type="module" module-name="图片转字符画" />
+    <orderEntry type="module" module-name="火车票查询工具" />
+    <orderEntry type="module" module-name="实验楼获取教程链接" />
+    <orderEntry type="module" module-name="web服务器" />
+    <orderEntry type="module" module-name="发送手机验证码" />
+    <orderEntry type="module" module-name="GUI界面示例" />
+    <orderEntry type="module" module-name="数据库操作" />
+    <orderEntry type="module" module-name="打飞机小游戏" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
