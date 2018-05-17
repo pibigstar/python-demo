@@ -9,7 +9,7 @@
 > 我把之前写的相对还能看的过去的都放到里面了，主要是对BeautifulSoup和正则表达式的使用
 
 - py操纵浏览器
-> 通过python代码填写表单，主要是对selenium 和 PantomJs的使用
+> 通过python代码填写表单，主要是对selenium 和 PhantomJs的使用
 
 - 图片转字符画
 > 主要是对PIL的应用
